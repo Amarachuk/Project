@@ -1,0 +1,15 @@
+Weight = set()
+
+Weight.add("1kg")
+Weight.add("2kg")
+Weight.add("3kg")
+Weight.add("4kg")
+Weight.add("5kg")
+Weight.add("6kg")
+Weight.add("7kg")
+Weight.add("8kg")
+Weight.add("9kg")
+Weight.add("10kg")
+
+print(Weight)
+print(f"There are {len( Weight)}Weights")
